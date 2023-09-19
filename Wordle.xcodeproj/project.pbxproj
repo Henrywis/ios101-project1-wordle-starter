@@ -15,7 +15,6 @@
 		996B84AA299990A900133037 /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 996B84A9299990A900133037 /* SceneDelegate.swift */; };
 		996B84AC299990A900133037 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 996B84AB299990A900133037 /* ViewController.swift */; };
 		996B84AF299990A900133037 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 996B84AD299990A900133037 /* Main.storyboard */; };
-		996B84B1299990AA00133037 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 996B84B0299990AA00133037 /* Assets.xcassets */; };
 		996B84B4299990AA00133037 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 996B84B2299990AA00133037 /* LaunchScreen.storyboard */; };
 		996B84BF299990AA00133037 /* WordleTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 996B84BE299990AA00133037 /* WordleTests.swift */; };
 		996B84C9299990AA00133037 /* WordleUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 996B84C8299990AA00133037 /* WordleUITests.swift */; };
@@ -267,7 +266,6 @@
 			buildActionMask = 2147483647;
 			files = (
 				996B84B4299990AA00133037 /* LaunchScreen.storyboard in Resources */,
-				996B84B1299990AA00133037 /* Assets.xcassets in Resources */,
 				996B84AF299990A900133037 /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
